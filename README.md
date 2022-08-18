@@ -1,6 +1,6 @@
 <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
 
-# ZIM BOT V4
+# SUMI__ALPHAV4
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
@@ -36,7 +36,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/ZIM-BOT-INC-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BhushithaArunod/SUMIALPHAMD?v=1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
  ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
@@ -67,15 +67,3 @@ echo scan the qr code and enjoy bot
 
 ```
 
-
-## JOIN MY WHATSAPP GROUP
-
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
-
-## MY PERSONAL CHAT
-
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
-
-
-# > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- 
